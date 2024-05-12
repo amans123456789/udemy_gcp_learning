@@ -18,7 +18,7 @@ Name: lab-09-get-customers-svc-tr
 Region: us-central1
 Event: Manual Invocation
 Repository Generation: 2nd gen
-Repository: udemy-cloud-monkey-cloud-run-code-repo
+Repository: udemy_gcp_learning
 Branch: main
 Configuration: Cloud Build configuration file (yaml or json)
 Cloud Build Configuration File Location: lab-9-build-and-deploy-cloud-run-service-using-buildconfig-and-dockerfile/buildconfig/cloudbuild.yaml
