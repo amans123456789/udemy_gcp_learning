@@ -1,10 +1,10 @@
-Project Id:
+Project Id: udemy-learning-gcp-setup
 
 Project Hash: n4hpnu2vma
 
-Cloud SQL Service Account:
+Cloud SQL Service Account: p349136904424-j3ug5i@gcp-sa-cloud-sql.iam.gserviceaccount.com
 
-Cloud SQL Public IP:
+Cloud SQL Public IP: 34.29.147.22
 
 Cloud SQL Private IP:
 
