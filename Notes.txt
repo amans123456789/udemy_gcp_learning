@@ -6,7 +6,7 @@ Cloud SQL Service Account: p349136904424-j3ug5i@gcp-sa-cloud-sql.iam.gserviceacc
 
 Cloud SQL Public IP: 34.29.147.22
 
-Cloud SQL Private IP:
+Cloud SQL Private IP: 10.8.19.3
 
 Cloud Storage Service Account:
 
